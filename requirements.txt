@@ -1,0 +1,4 @@
+transformers
+flair
+pytorch_lightning
+tensorboard
